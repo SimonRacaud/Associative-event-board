@@ -2,6 +2,8 @@
 
 [Lia épicerie solidaire](https://www.helloasso.com/associations/lia-epicerie-solidaire) is a French non-profit association that organizes food distribution events. Its mission is to reduce food waste while supporting people in need.
 
+This application was developed as part of my volunteer work for the association.
+
 ## Goal of the Application
 
 The application allows volunteers to register to events, such as food distributions. 
