@@ -4,7 +4,7 @@
 
 ## Goal of the Application
 
-The application allows association members to register for events, such as food distribution sessions.
+The application allows volunteers to register to events, such as food distributions. 
 
 ## Features
 
