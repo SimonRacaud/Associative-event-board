@@ -1,6 +1,6 @@
 # Lia Association Web Application
 
-**Lia** is a French non-profit association that organizes food distribution events. Its mission is to reduce food waste while supporting people in need.
+![**Lia épicerie solidaire**](https://www.helloasso.com/associations/lia-epicerie-solidaire) is a French non-profit association that organizes food distribution events. Its mission is to reduce food waste while supporting people in need.
 
 ## Goal of the Application
 
