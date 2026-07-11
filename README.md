@@ -1,19 +1,23 @@
-# Lia association webapp
-**Lia** is a French association organizing food distributions. It's an anti-waste and social organization.
+# Lia Association Web Application
 
-**Goal of the application:** Allowing association members to subscribe themselves for events, such as food distributions.
-## Functionalities:
+**Lia** is a French non-profit association that organizes food distribution events. Its mission is to reduce food waste while supporting people in need.
 
-- User authentication (username and password)
-- List, Create, Update, Remove events
-- List, Create, Update, Remove users
-- List, Create, Update, Remove team templates*
-- Subscribe/Unsubscribe to events' teams
-- Manage events and users localization. 
+## Goal of the Application
 
-Each event contains several teams. A team group people to perform a specific task during an event.
+The application allows association members to register for events, such as food distribution sessions.
 
-*To make administrators' lives easier, a team is created using a template. Team templates are pre-defined data models with a specific team title, team type, memo text, number of places, (...)
+## Features
+
+* User authentication (username and password)
+* Create, view, update, and delete **events**
+* Create, view, update, and delete **users**
+* Create, view, update, and delete **team templates**
+* Subscribe to and unsubscribe from **events**
+* Manage the locations of **events** and **users**
+
+Each **event** consists of several **teams**. A **team** is a group of volunteers assigned to perform a specific task during an **event**.
+
+To simplify event management, teams are created from **team templates**. A team template is a predefined data model that specifies properties such as the team name, team type, notes, number of available positions, and other configuration settings.
 
 ## Preview
 
